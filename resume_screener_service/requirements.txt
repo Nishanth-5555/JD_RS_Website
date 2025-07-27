@@ -1,0 +1,6 @@
+Flask
+PyMuPDF # Fast PDF processing, also known as `fitz`
+python-docx
+spacy
+sentence-transformers
+requests # For potential testing

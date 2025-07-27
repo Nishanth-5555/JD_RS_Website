@@ -1,0 +1,23 @@
+Python
+Java
+C++
+JavaScript
+React
+SQL
+AWS
+Azure
+GCP
+Machine Learning
+Deep Learning
+Natural Language Processing
+Data Analysis
+Project Management
+Communication
+Leadership
+Agile
+Scrum
+Microsoft Office
+Excel
+Git
+Docker
+Kubernetes
